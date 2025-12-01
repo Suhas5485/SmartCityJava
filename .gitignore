@@ -1,0 +1,20 @@
+# Java classes
+*.class
+
+# Generated files
+out/
+bin/
+
+# Serialized data files
+*.dat
+*.ser
+
+# Logs
+*.log
+
+# VS Code settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
